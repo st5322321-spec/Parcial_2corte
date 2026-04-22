@@ -2,7 +2,7 @@
 Juan Sebastian Tovar Estrada
 Yeiser Kaleth Mena Martinez
 
-# Sistema de Gestión de Parqueadero — Documentación Técnica Detallada
+# Sistema de Gestión de Parqueadero 
 
 **Autores:** Juan Sebastian Tovar Estrada · Yeiser Kaleth Mena Martinez  
 **Tecnología:** C# · .NET 10 · Aplicación de Consola
